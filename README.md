@@ -98,11 +98,11 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
-<a href="[https://leetcode.com/Sahiil-Chhillar](https://leetcode.com/u/sahiilChhillar/)" target="_blank">
+<a href="https://leetcode.com/u/ThunderGod_X/" target="_blank">
 <img src=https://img.shields.io/badge/LeetCode-%23000000.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=leetcode style="margin-bottom: 5px;" />
 </a>
 
-<a href="[https://auth.geeksforgeeks.org/user/nitsahilchhillar](https://www.geeksforgeeks.org/user/sahilchhillar05/)" target="_blank">
+<a href="https://www.geeksforgeeks.org/profile/sahilchhillar05" target="_blank">
 <img src=https://img.shields.io/badge/GeeksForGeeks-%2324292e.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white alt=gfg style="margin-bottom: 5px;" />
 </a>
 
