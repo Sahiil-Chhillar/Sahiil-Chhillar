@@ -8,7 +8,7 @@
 
 - 🏫 B.Tech Computer Engineering'26, NIT Kurukshetra
 - 💻 Full Stack Developer (MERN Stack)
-- ⚡ 500+ DSA problems solved on LeetCode & GFG
+- ⚡ Love solving DSA problems on LeetCode & GFG
 - 🌱 Currently building **Attendyy** — a QR-based attendance system
 - 📫 Reach me at: nitsahilchhillar@gmail.com
 </div>
@@ -56,9 +56,9 @@
 </h3>
 
 <p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/113px-Visual_Studio_Code_1.35_icon.svg.png" width="48" height="48"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/113px-Visual_Studio_Code_1.35_icon.svg.png](https://www.vecteezy.com/png/67565526-visual-studio-code-logo-rounded)" width="48" height="48"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/github-original-wordmark.svg" alt="GitHub" height="50"/></a>
+  <a href="https://github.com/" target="_blank"><img src="[https://profilinator.rishav.dev/skills-assets/github-original-wordmark.svg](https://iconscout.com/free-icon/free-github-logo-icon_8630395)" alt="GitHub" height="50"/></a>
   <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="50"/></a>
   <a href="https://render.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4" alt="Render" height="48"/></a>
 </p>
