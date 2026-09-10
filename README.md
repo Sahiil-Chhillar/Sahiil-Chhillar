@@ -99,7 +99,7 @@ time-bound QR codes · Haversine verification
 
 <br/>
 
-<!-- ░░ 02 ░░ -->
+<!-- ░░ 02 ░░
 <h3>
   <img src="https://img.shields.io/badge/02-8b5cf6?style=flat-square&label=&labelColor=8b5cf6" alt=""/>
   &nbsp;PlaceIt &nbsp;<sub><i>campus placement simulator</i></sub>
@@ -133,7 +133,7 @@ AI interviewer · auto-graded assessment rounds
   <img src="https://img.shields.io/badge/Placement%20Simulator-1a1f28?style=flat-square&logoColor=8b5cf6"/>
 </p>
 
-<br/>
+<br/> -->
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
@@ -267,7 +267,7 @@ AI interviewer · auto-graded assessment rounds
 <table align="center">
 <tr><th align="left">Project</th><th align="left">What it is</th><th align="left">Stack</th><th align="left">Updated</th></tr>
 <tr><td><a href="https://github.com/Sahiil-Chhillar/Attendyy"><b>Attendyy</b></a></td><td>Full-stack attendance system using dynamic QR codes and Haversine-based geolocation verification</td><td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript"/></td><td><sub>—</sub></td></tr>
-<tr><td><b>PlaceIt</b></td><td>Campus placement simulator with an AI interviewer and auto-graded OA rounds</td><td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript"/></td><td><sub>—</sub></td></tr>
+<!-- <tr><td><b>PlaceIt</b></td><td>Campus placement simulator with an AI interviewer and auto-graded OA rounds</td><td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript"/></td><td><sub>—</sub></td></tr> -->
 </table>
 <!-- RECENT-PROJECTS:END -->
 
