@@ -1,0 +1,49 @@
+name: Update README
+
+# Keeps the RECENT WORK table in sync with my public repositories.
+# Runs daily, and can be triggered by hand from the Actions tab.
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main, master, projects]
+    paths:
+      - scripts/update_readme.py
+      - .github/workflows/update-readme.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-readme
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # No dependencies -- the script uses only the standard library.
+      - name: Regenerate the RECENT WORK table
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: python scripts/update_readme.py --count 6
+
+      - name: Commit if anything changed
+        run: |
+          if [[ -z "$(git status --porcelain README.md)" ]]; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Refresh the RECENT WORK table"
+          git push
