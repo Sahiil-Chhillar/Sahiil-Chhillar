@@ -33,7 +33,7 @@
 
 <!-- ░░ the one line that changes ░░ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=680&lines=B.Tech+Computer+Engineering+%40+NIT+Kurukshetra;I+build+full-stack+applications+with+the+MERN+stack;500%2B+DSA+problems+solved;Building+real-world+software+projects;Currently+building+PlaceIt" alt="What I do"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=680&lines=B.Tech+Computer+Engineering+%40+NIT+Kurukshetra;I+build+full-stack+applications+with+the+MERN+stack;500%2B+DSA+problems+solved;Building+real-world+software+projects;Currently+building+Attendyy" alt="What I do"/>
 </p>
 
 <img src="assets/neon-rule-dark.svg#gh-dark-mode-only" width="100%" alt=""/>
