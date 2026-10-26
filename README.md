@@ -33,7 +33,7 @@
 
 <!-- ░░ the one line that changes ░░ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=680&lines=B.Tech+Computer+Engineering+%40+NIT+Kurukshetra;I+build+full-stack+applications+with+the+MERN+stack;500%2B+DSA+problems+solved;Building+real-world+software+projects;Currently+building+Attendyy" alt="What I do"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=680&lines=B.Tech+Computer+Engineering+%40+NIT+Kurukshetra;I+build+full-stack+applications+with+the+MERN+stack;500%2B+DSA+problems+solved;Building+real-world+software+projects;Built+CodeClash%3A+real-time+coding+duels" alt="What I do"/>
 </p>
 
 <img src="assets/neon-rule-dark.svg#gh-dark-mode-only" width="100%" alt=""/>
@@ -56,6 +56,52 @@
 <!-- ░░ 01 ░░ -->
 <h3>
   <img src="https://img.shields.io/badge/01-22d3ee?style=flat-square&label=&labelColor=22d3ee" alt=""/>
+  &nbsp;CodeClash &nbsp;<sub><i>real-time 1v1 coding duels</i></sub>
+</h3>
+
+<table>
+<tr><td width="62%" valign="top">
+
+A real-time **1v1 competitive programming platform** where two players race to solve the
+same problem. Challenge a friend by username, pick a **Codeforces rating and topic tag**,
+set a time limit, and the clock starts when both players get the problem.
+
+Challenge invites, contest start and results are pushed live with **Socket.IO**. The winner
+is decided automatically by polling the **Codeforces API** for real *Accepted* submissions,
+with an earliest-AC tie-break. Auth uses **JWT**, and **Cloudinary** handles avatar uploads.
+
+</td><td width="38%" valign="top">
+
+**One problem. Two minds.**
+### `Socket.IO + Codeforces`
+live invites · auto verdict detection
+
+`800–3500` rating range
+<br/>Synced contest timers
+<br/>Earliest-AC tie-break
+<br/>Match history and win stats
+
+</td></tr>
+</table>
+
+<p>
+  <a href="https://github.com/Sahiil-Chhillar/CodeClash"><img src="https://img.shields.io/badge/SOURCE-0d1117?style=for-the-badge&logo=github" alt="Source"/></a>
+  <a href="https://codeclash.vercel.app"><img src="https://img.shields.io/badge/LIVE-8b5cf6?style=for-the-badge&logoColor=0d1117" alt="Live"/></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-1a1f28?style=flat-square&logo=mongodb&logoColor=22d3ee"/>
+  <img src="https://img.shields.io/badge/Express.js-1a1f28?style=flat-square&logo=express&logoColor=22d3ee"/>
+  <img src="https://img.shields.io/badge/React-1a1f28?style=flat-square&logo=react&logoColor=22d3ee"/>
+  <img src="https://img.shields.io/badge/Node.js-1a1f28?style=flat-square&logo=node.js&logoColor=22d3ee"/>
+  <img src="https://img.shields.io/badge/Socket.IO-1a1f28?style=flat-square&logo=socket.io&logoColor=22d3ee"/>
+  <img src="https://img.shields.io/badge/Redux-1a1f28?style=flat-square&logo=redux&logoColor=22d3ee"/>
+  <img src="https://img.shields.io/badge/Tailwind-1a1f28?style=flat-square&logo=tailwindcss&logoColor=22d3ee"/>
+</p>
+
+<br/>
+
+<!-- ░░ 02 ░░ -->
+<h3>
+  <img src="https://img.shields.io/badge/02-8b5cf6?style=flat-square&label=&labelColor=8b5cf6" alt=""/>
   &nbsp;Attendyy &nbsp;<sub><i>attendance verification platform</i></sub>
 </h3>
 
@@ -89,19 +135,19 @@ time-bound QR codes · Haversine verification
 <p>
   <a href="https://github.com/Sahiil-Chhillar/Attendyy"><img src="https://img.shields.io/badge/SOURCE-0d1117?style=for-the-badge&logo=github" alt="Source"/></a>
   &nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-1a1f28?style=flat-square&logo=mongodb&logoColor=22d3ee"/>
-  <img src="https://img.shields.io/badge/Express.js-1a1f28?style=flat-square&logo=express&logoColor=22d3ee"/>
-  <img src="https://img.shields.io/badge/React-1a1f28?style=flat-square&logo=react&logoColor=22d3ee"/>
-  <img src="https://img.shields.io/badge/Node.js-1a1f28?style=flat-square&logo=node.js&logoColor=22d3ee"/>
-  <img src="https://img.shields.io/badge/JWT-1a1f28?style=flat-square&logo=jsonwebtokens&logoColor=22d3ee"/>
-  <img src="https://img.shields.io/badge/Cloudinary-1a1f28?style=flat-square&logo=cloudinary&logoColor=22d3ee"/>
+  <img src="https://img.shields.io/badge/MongoDB-1a1f28?style=flat-square&logo=mongodb&logoColor=8b5cf6"/>
+  <img src="https://img.shields.io/badge/Express.js-1a1f28?style=flat-square&logo=express&logoColor=8b5cf6"/>
+  <img src="https://img.shields.io/badge/React-1a1f28?style=flat-square&logo=react&logoColor=8b5cf6"/>
+  <img src="https://img.shields.io/badge/Node.js-1a1f28?style=flat-square&logo=node.js&logoColor=8b5cf6"/>
+  <img src="https://img.shields.io/badge/JWT-1a1f28?style=flat-square&logo=jsonwebtokens&logoColor=8b5cf6"/>
+  <img src="https://img.shields.io/badge/Cloudinary-1a1f28?style=flat-square&logo=cloudinary&logoColor=8b5cf6"/>
 </p>
 
 <br/>
 
-<!-- ░░ 02 ░░
+<!-- ░░ 03 ░░
 <h3>
-  <img src="https://img.shields.io/badge/02-8b5cf6?style=flat-square&label=&labelColor=8b5cf6" alt=""/>
+  <img src="https://img.shields.io/badge/03-f472b6?style=flat-square&label=&labelColor=f472b6" alt=""/>
   &nbsp;PlaceIt &nbsp;<sub><i>campus placement simulator</i></sub>
 </h3>
 
@@ -128,9 +174,9 @@ AI interviewer · auto-graded assessment rounds
 </table>
 
 <p>
-  <img src="https://img.shields.io/badge/AI%20Interviewer-1a1f28?style=flat-square&logoColor=8b5cf6"/>
-  <img src="https://img.shields.io/badge/Auto--Graded%20OA-1a1f28?style=flat-square&logoColor=8b5cf6"/>
-  <img src="https://img.shields.io/badge/Placement%20Simulator-1a1f28?style=flat-square&logoColor=8b5cf6"/>
+  <img src="https://img.shields.io/badge/AI%20Interviewer-1a1f28?style=flat-square&logoColor=f472b6"/>
+  <img src="https://img.shields.io/badge/Auto--Graded%20OA-1a1f28?style=flat-square&logoColor=f472b6"/>
+  <img src="https://img.shields.io/badge/Placement%20Simulator-1a1f28?style=flat-square&logoColor=f472b6"/>
 </p>
 
 <br/> -->
