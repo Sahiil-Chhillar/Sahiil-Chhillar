@@ -86,14 +86,12 @@ live invites · auto verdict detection
 
 <p>
   <a href="https://github.com/Sahiil-Chhillar/CodeClash"><img src="https://img.shields.io/badge/SOURCE-0d1117?style=for-the-badge&logo=github" alt="Source"/></a>
-  <a href="https://codeclash.vercel.app"><img src="https://img.shields.io/badge/LIVE-8b5cf6?style=for-the-badge&logoColor=0d1117" alt="Live"/></a>
   &nbsp;
   <img src="https://img.shields.io/badge/MongoDB-1a1f28?style=flat-square&logo=mongodb&logoColor=22d3ee"/>
   <img src="https://img.shields.io/badge/Express.js-1a1f28?style=flat-square&logo=express&logoColor=22d3ee"/>
   <img src="https://img.shields.io/badge/React-1a1f28?style=flat-square&logo=react&logoColor=22d3ee"/>
   <img src="https://img.shields.io/badge/Node.js-1a1f28?style=flat-square&logo=node.js&logoColor=22d3ee"/>
   <img src="https://img.shields.io/badge/Socket.IO-1a1f28?style=flat-square&logo=socket.io&logoColor=22d3ee"/>
-  <img src="https://img.shields.io/badge/Redux-1a1f28?style=flat-square&logo=redux&logoColor=22d3ee"/>
   <img src="https://img.shields.io/badge/Tailwind-1a1f28?style=flat-square&logo=tailwindcss&logoColor=22d3ee"/>
 </p>
 
