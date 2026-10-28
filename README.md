@@ -45,11 +45,11 @@
 
 <h2 align="center">◈ &nbsp; W H A T &nbsp; I &nbsp; B U I L D &nbsp; ◈</h2>
 
-<p align="center">
+<!-- <p align="center">
   <i>I like problems where the result is measurable rather than a matter of taste.<br/>
   An attendance system either verifies the student correctly or it doesn't. A placement<br/>
   simulator either gives students a realistic workflow or it needs more work.</i>
-</p>
+</p> -->
 
 <br/>
 
