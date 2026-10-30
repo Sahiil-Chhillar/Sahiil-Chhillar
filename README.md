@@ -85,6 +85,8 @@ live invites · auto verdict detection
 </table>
 
 <p>
+  <a href="https://code-clash-delta.vercel.app"><img src="https://img.shields.io/badge/LIVE-f472b6?style=for-the-badge&logo=vercel&logoColor=0d1117" alt="Live demo"/></a>
+  &nbsp;
   <a href="https://github.com/Sahiil-Chhillar/CodeClash"><img src="https://img.shields.io/badge/SOURCE-0d1117?style=for-the-badge&logo=github" alt="Source"/></a>
   &nbsp;
   <img src="https://img.shields.io/badge/MongoDB-1a1f28?style=flat-square&logo=mongodb&logoColor=22d3ee"/>
@@ -130,9 +132,9 @@ auto billing · signature-verified payments
 </table>
 
 <p>
-  <a href="https://github.com/Sahiil-Chhillar/eSmartMess"><img src="https://img.shields.io/badge/SOURCE-0d1117?style=for-the-badge&logo=github" alt="Source"/></a>
-  &nbsp;
   <a href="https://e-smart-mess.vercel.app"><img src="https://img.shields.io/badge/LIVE-f472b6?style=for-the-badge&logo=vercel&logoColor=0d1117" alt="Live demo"/></a>
+  &nbsp;
+  <a href="https://github.com/Sahiil-Chhillar/eSmartMess"><img src="https://img.shields.io/badge/SOURCE-0d1117?style=for-the-badge&logo=github" alt="Source"/></a>
   &nbsp;
   <img src="https://img.shields.io/badge/MongoDB-1a1f28?style=flat-square&logo=mongodb&logoColor=f472b6"/>
   <img src="https://img.shields.io/badge/Express.js-1a1f28?style=flat-square&logo=express&logoColor=f472b6"/>
@@ -178,6 +180,8 @@ time-bound QR codes · Haversine verification
 </table>
 
 <p>
+  <a href="https://attendyyy.vercel.app"><img src="https://img.shields.io/badge/LIVE-f472b6?style=for-the-badge&logo=vercel&logoColor=0d1117" alt="Live demo"/></a>
+  &nbsp;
   <a href="https://github.com/Sahiil-Chhillar/Attendyy"><img src="https://img.shields.io/badge/SOURCE-0d1117?style=for-the-badge&logo=github" alt="Source"/></a>
   &nbsp;
   <img src="https://img.shields.io/badge/MongoDB-1a1f28?style=flat-square&logo=mongodb&logoColor=8b5cf6"/>
