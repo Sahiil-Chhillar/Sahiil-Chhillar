@@ -99,9 +99,56 @@ live invites · auto verdict detection
 
 <!-- ░░ 02 ░░ -->
 <h3>
-  <img src="https://img.shields.io/badge/02-8b5cf6?style=flat-square&label=&labelColor=8b5cf6" alt=""/>
-  &nbsp;Attendyy &nbsp;<sub><i>attendance verification platform</i></sub>
+  <img src="https://img.shields.io/badge/02-f472b6?style=flat-square&label=&labelColor=f472b6" alt=""/>
+  &nbsp;eSmartMess &nbsp;<sub><i>hostel mess management platform</i></sub>
 </h3>
+
+<table>
+<tr><td width="62%" valign="top">
+
+A full-stack **MERN platform that digitizes hostel mess operations**: attendance, billing,
+rebates and online payments in one place. Admins mark attendance for the whole hostel in
+one click, and bills are generated automatically from it.
+
+Students pay online through **Razorpay**, with payments confirmed by **HMAC-SHA256
+signature verification**. Approved rebates (leave periods) feed straight into attendance,
+so students are never billed for days they were away. Auth uses **JWT** in httpOnly
+cookies with **role-based access control** for Student and Admin.
+
+</td><td width="38%" valign="top">
+
+**From attendance to payment**
+### `Razorpay + Rebates`
+auto billing · signature-verified payments
+
+`2` user roles
+<br/>`25+` REST endpoints
+<br/>Rebate-aware bulk attendance
+<br/>Complaints, notices and weekly menu
+
+</td></tr>
+</table>
+
+<p>
+  <a href="https://github.com/Sahiil-Chhillar/eSmartMess"><img src="https://img.shields.io/badge/SOURCE-0d1117?style=for-the-badge&logo=github" alt="Source"/></a>
+  &nbsp;
+  <a href="https://e-smart-mess.vercel.app"><img src="https://img.shields.io/badge/LIVE-f472b6?style=for-the-badge&logo=vercel&logoColor=0d1117" alt="Live demo"/></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-1a1f28?style=flat-square&logo=mongodb&logoColor=f472b6"/>
+  <img src="https://img.shields.io/badge/Express.js-1a1f28?style=flat-square&logo=express&logoColor=f472b6"/>
+  <img src="https://img.shields.io/badge/React-1a1f28?style=flat-square&logo=react&logoColor=f472b6"/>
+  <img src="https://img.shields.io/badge/Node.js-1a1f28?style=flat-square&logo=node.js&logoColor=f472b6"/>
+  <img src="https://img.shields.io/badge/Redux-1a1f28?style=flat-square&logo=redux&logoColor=f472b6"/>
+  <img src="https://img.shields.io/badge/Razorpay-1a1f28?style=flat-square&logo=razorpay&logoColor=f472b6"/>
+  <img src="https://img.shields.io/badge/Tailwind-1a1f28?style=flat-square&logo=tailwindcss&logoColor=f472b6"/>
+</p>
+
+<br/>
+
+<!-- ░░ 03 ░░ -->
+<h3>
+  <img src="https://img.shields.io/badge/03-8b5cf6?style=flat-square&label=&labelColor=8b5cf6" alt=""/>
+  &nbsp;Attendyy
 
 <table>
 <tr><td width="62%" valign="top">
